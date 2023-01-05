@@ -1,0 +1,2 @@
+!function(){"use strict";(()=>{const e=document.querySelector(".burger__button"),t=document.querySelector(".header__menu");e.addEventListener("click",(()=>{t.classList.toggle("active")}))})()}();
+//# sourceMappingURL=index.7e7ee5b6864feb5b5a5c.js.map
